@@ -17,7 +17,7 @@ This project predicts **Formula 1 race lap times** for the 2025 Japanese Grand P
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Jaswanth-aditya/f1-race-prediction.git
+git clone https://github.com/Jaswanth-aditya/f1-race-predictions.git
 cd f1-race-prediction
 ```
 ### 2️⃣ Install Dependencies
